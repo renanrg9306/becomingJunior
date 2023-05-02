@@ -1,0 +1,37 @@
+root{
+
+}
+html{
+    font-size:62.5%;
+}
+body{
+    font-size:16px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    text-align:center;
+}
+
+.contenedor{
+    width: 120rem;
+    margin: 0 auto
+
+}
+
+span.SpanH1{
+    font-size: 2rem;
+}
+
+.navegacion_principal{
+    background-color: rgb(6, 111, 230); 
+    padding: 1rem
+}
+
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
